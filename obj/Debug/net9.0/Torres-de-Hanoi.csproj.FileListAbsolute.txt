@@ -1,0 +1,15 @@
+c:\Users\carlo\Documents\GitHub\Torres-de-Hanoi\bin\Debug\net9.0\Torres-de-Hanoi.exe
+C:\Users\carlo\Documents\GitHub\Torres-de-Hanoi\bin\Debug\net9.0\Torres-de-Hanoi.deps.json
+C:\Users\carlo\Documents\GitHub\Torres-de-Hanoi\bin\Debug\net9.0\Torres-de-Hanoi.runtimeconfig.json
+c:\Users\carlo\Documents\GitHub\Torres-de-Hanoi\bin\Debug\net9.0\Torres-de-Hanoi.dll
+c:\Users\carlo\Documents\GitHub\Torres-de-Hanoi\bin\Debug\net9.0\Torres-de-Hanoi.pdb
+c:\Users\carlo\Documents\GitHub\Torres-de-Hanoi\obj\Debug\net9.0\Torres-de-Hanoi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\carlo\Documents\GitHub\Torres-de-Hanoi\obj\Debug\net9.0\Torres-de-Hanoi.AssemblyInfoInputs.cache
+c:\Users\carlo\Documents\GitHub\Torres-de-Hanoi\obj\Debug\net9.0\Torres-de-Hanoi.AssemblyInfo.cs
+c:\Users\carlo\Documents\GitHub\Torres-de-Hanoi\obj\Debug\net9.0\Torres-de-Hanoi.csproj.CoreCompileInputs.cache
+c:\Users\carlo\Documents\GitHub\Torres-de-Hanoi\obj\Debug\net9.0\Torres-de-Hanoi.sourcelink.json
+c:\Users\carlo\Documents\GitHub\Torres-de-Hanoi\obj\Debug\net9.0\Torres-de-Hanoi.dll
+c:\Users\carlo\Documents\GitHub\Torres-de-Hanoi\obj\Debug\net9.0\refint\Torres-de-Hanoi.dll
+c:\Users\carlo\Documents\GitHub\Torres-de-Hanoi\obj\Debug\net9.0\Torres-de-Hanoi.pdb
+C:\Users\carlo\Documents\GitHub\Torres-de-Hanoi\obj\Debug\net9.0\Torres-de-Hanoi.genruntimeconfig.cache
+C:\Users\carlo\Documents\GitHub\Torres-de-Hanoi\obj\Debug\net9.0\ref\Torres-de-Hanoi.dll
